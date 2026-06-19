@@ -1,12 +1,12 @@
 {
   "nodes": {
-    "nixpkgs": {
+    "channel": {
       "locked": {
-        "lastModified": 1781265674,
-        "narHash": "sha256-RepsUB9E597YbgF9H2eeHeDPocRpPCxXnbXHl8ivPJQ=",
+        "lastModified": 1781828600,
+        "narHash": "sha256-OosOGBhPTRD+IRq+RypfM8pCgazeN4V08MdivQUHaBM=",
         "owner": "nixos",
         "repo": "nixpkgs",
-        "rev": "b1c93e7b9fea8a7e647e9aef018737acf8bb9a8b",
+        "rev": "33cb3d28b128d2007bb92508a5bd121d4116b61f",
         "type": "github"
       },
       "original": {
@@ -18,7 +18,7 @@
     },
     "root": {
       "inputs": {
-        "nixpkgs": "nixpkgs"
+        "channel": "channel"
       }
     }
   },
