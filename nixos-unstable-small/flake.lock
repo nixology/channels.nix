@@ -2,11 +2,11 @@
   "nodes": {
     "channel": {
       "locked": {
-        "lastModified": 1789458440,
-        "narHash": "sha256-Zq3ebjGURKGrgEWGFw35hrQjTM9MSxzuRhhJFA1rEdg=",
+        "lastModified": 1790063155,
+        "narHash": "sha256-BSX8yeZbsLHwaVJTOeZdSw9MFFPSvq8ekitn2YHQMk8=",
         "owner": "nixos",
         "repo": "nixpkgs",
-        "rev": "7a1ebacb35eba7648fc5bb28020dc0ee76a21d5c",
+        "rev": "f920e5f919d69bdbc9ceac7af46ba05e2f6db41c",
         "type": "github"
       },
       "original": {
